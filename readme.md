@@ -12,6 +12,10 @@ The chatbot leverages the power of a large language model (LLM) via the Gemini P
 - Simple and intuitive user interface built with Streamlit.
 - Utilizes the Gemini Pro API for powerful language model capabilities.
 
+## Demo Video
+
+Watch the [demo video](https://github.com/your-username/chatbot-project/raw/main/videos/demo-video.mp4) to see the chatbot in action.
+
 ## Installation
 
 Follow these steps to set up and run the chatbot:
