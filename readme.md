@@ -14,7 +14,11 @@ The chatbot leverages the power of a large language model (LLM) via the Gemini P
 
 ## Demo Video
 
-Watch the [demo video](https://github.com/Disha4346/chatbot-project/blob/main/video%20demo/chatbot.mp4) to see the chatbot in action.
+Watch the demo video below to see the chatbot in action:
+
+<video width="600" controls>
+  <source src="https://github.com/Disha4346/chatbot-project/blob/main/video%20demo/chatbot.mp4" type="video/mp4">
+</video>
 
 ## Installation
 
